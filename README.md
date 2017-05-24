@@ -11,6 +11,9 @@
 * `$ mkvirtualenv thinkster-djangular`
 * `$ cd thinkster-django-angular-boilerplate/`
 * `$ pip install -r requirements.txt`
+* `$ sudo apt-get install python-software-properties`
+* `$ curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -`
+* `$ sudo apt-get install nodejs`
 * `$ npm install -g bower`
 * `$ npm install`
 * `$ bower install`
